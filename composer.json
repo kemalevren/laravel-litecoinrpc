@@ -1,5 +1,5 @@
 {
-    "name": "majestic/laravel-litecoinrpc",
+    "name": "kemalevren/laravel-litecoinrpc",
     "type": "library",
     "description": "Litecoin JSON-RPC Service Provider for Laravel",
     "keywords": ["laravel","litecoin","api","jsonrpc","guzzle"],
@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.6.0",
-        "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*",
+        "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*",
         "majestic/php-litecoinrpc": "^2.0"
     },
     "require-dev": {
